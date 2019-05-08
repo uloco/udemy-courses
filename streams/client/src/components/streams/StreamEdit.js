@@ -3,7 +3,6 @@ import { connect } from "react-redux";
 import { fetchStream, editStream } from "../../actions";
 import StreamForm from "./StreamForm";
 import _ from "lodash";
-import * as R from "ramda";
 
 class StreamEdit extends React.Component {
   componentDidMount() {
