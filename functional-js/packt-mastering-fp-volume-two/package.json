@@ -44,7 +44,7 @@
     "bootstrap-loader": "^2.0.0",
     "font-awesome": "^4.7.0",
     "html-to-vdom": "^0.7.0",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "ramda": "^0.24.0"
   },
   "repository": {
